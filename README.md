@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-# Ignacio Iannello
-I'm a CS student from Argentina enrolled at UBA-FCEyN. I'm mostly into gamedev,AI and anything graphic related. Here's a quick overview of 
+# About me 
+Hey!I'm a CS student from Argentina enrolled at UBA-FCEyN. I'm mostly into gamedev,AI and anything graphic related. Here's a quick overview of 
 my projects 
 
 ## Projects
