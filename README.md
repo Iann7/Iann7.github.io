@@ -7,6 +7,8 @@ Hey! I'm a CS student from Argentina enrolled at UBA-FCEyN. I'm mostly into game
 ## Computer Vision 
 ### [LSA64DNN](https://github.com/Iann7/LSA64DNN)
 I made a Bi-GRU model to recognize signs using the LSA64 dataset.
+### [BovinAI]
+Weight estimation + bboxes for cows. We use a pretrained resnet34 with frozen weight to estimate weight, the bboxes are TBD 
 ### [MINCClassifier](https://colab.research.google.com/drive/1DXsX8lLV1WCKxuCuqXe4RWWr5L8TUZCf?usp=sharing)
 This wasn the first model I ever made.
 
